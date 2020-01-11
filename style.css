@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+  }
+
+  h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+  }
